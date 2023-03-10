@@ -341,7 +341,7 @@ a {
 
 .page-hero {
   min-height: 100vh;
-  background-image: url("/img/image-bg.jpg");
+  background-image: url("../img/image-bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -990,7 +990,7 @@ a {
   border-radius: 1px;
   width: 18px;
   height: 18px;
-  background-image: url("/img/check.png");
+  background-image: url("../img/check.png");
   background-position: center;
   background-size: 10px 8px;
   background-repeat: no-repeat;
@@ -1158,7 +1158,7 @@ a {
   position: relative;
   padding-top: 70px;
   padding-bottom: 100px;
-  background-image: url("/img/advantage-bg.png");
+  background-image: url("../img/advantage-bg.png");
   background-position: left;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1407,7 +1407,7 @@ a {
   margin-top: 240px;
   margin-bottom: 110px;
   background-color: #fff;
-  background-image: url("/img/desing-bg.png");
+  background-image: url("../img/desing-bg.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -1533,7 +1533,7 @@ a {
 
 .clients {
   padding-bottom: 380px;
-  background-image: url("/img/clients-bg.png");
+  background-image: url("../img/clients-bg.png");
   background-position: bottom;
   background-size: contain;
   background-color: #fff;
@@ -1718,7 +1718,7 @@ a {
 
 .location {
   position: relative;
-  background-image: url("/img/location-bg.png");
+  background-image: url("../img/location-bg.png");
   background-position: right;
   background-size: contain;
   background-repeat: no-repeat;
